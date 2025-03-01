@@ -8,15 +8,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kithmx9s&theme=dracula&area=true&hide_border=true&hide_title=true&radius=16" height="150" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=kithmx9s&theme=darkhub&no-frame=true" height="150" alt="trophy graph"  />
 </div>
-### 🌐 **Most Used Languages**:
+
+###
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahansanjana&layout=compact&theme=radical&cache_seconds=86400" alt="Pahan Sanjana's Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kithmx9s&layout=compact&theme=radical&cache_seconds=86400" alt="Kith's Most Used Languages" />
   </a>
 </p>
-###
-###
 
+###
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWgwbjM5enRvYXdybWVzYTBmOHFodjJqMnRoamVyb2k3czlwbGh3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
