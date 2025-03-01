@@ -17,8 +17,7 @@
 </p>
 
 ###
-<img align="right" height="200"
-width="1000"
+<img align="right" height="100"
 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWgwbjM5enRvYXdybWVzYTBmOHFodjJqMnRoamVyb2k3czlwbGh3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
