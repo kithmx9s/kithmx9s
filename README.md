@@ -14,6 +14,13 @@
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWgwbjM5enRvYXdybWVzYTBmOHFodjJqMnRoamVyb2k3czlwbGh3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
+### 🌐 **Most Used Languages**:
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahansanjana&layout=compact&theme=radical&cache_seconds=86400" alt="Pahan Sanjana's Most Used Languages" />
+  </a>
+</p>
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
