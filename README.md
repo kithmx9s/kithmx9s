@@ -8,12 +8,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kithmx9s&theme=dracula&area=true&hide_border=true&hide_title=true&radius=16" height="150" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=kithmx9s&theme=darkhub&no-frame=true" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWgwbjM5enRvYXdybWVzYTBmOHFodjJqMnRoamVyb2k3czlwbGh3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
 ### 🌐 **Most Used Languages**:
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -21,7 +15,11 @@
   </a>
 </p>
 ###
+###
 
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWgwbjM5enRvYXdybWVzYTBmOHFodjJqMnRoamVyb2k3czlwbGh3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
