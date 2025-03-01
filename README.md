@@ -5,7 +5,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kithmx9s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=kithmx9s&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kithmx9s&theme=dracula&area=true&hide_border=true&hide_title=true&radius=16" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kithmx9s&theme=dracula&area=true&hide_border=true&hide_title=true&radius=16" height="250" width="700" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=kithmx9s&theme=darkhub&no-frame=true" height="150" alt="trophy graph"  />
 </div>
 
@@ -17,7 +17,7 @@
 </p>
 
 ###
-<img align="right" height="100"
+<img align="right" height="175"
 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWgwbjM5enRvYXdybWVzYTBmOHFodjJqMnRoamVyb2k3czlwbGh3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
